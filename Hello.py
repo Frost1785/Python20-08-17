@@ -1,0 +1,6 @@
+name = input("What's your name:")
+print ("Hi",name )
+color= input("What's your favorite color:")
+print ("I like", color , "too")
+how = input ("How are you:")
+print ("That's", how )
